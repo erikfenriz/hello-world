@@ -8,9 +8,9 @@ This activity helps beginners learn basic programming tools, debugging technique
 
 # Development Environment
 
-Tools used: IDE Webstorm, Browder Google Chrome and its integrated develeper tools, Terminal, Git.
-Languages & Technologies Used:
-HTML: The standard markup language for creating web pages and structuring content.
+Tools used: IDE Webstorm, Browder Google Chrome and its integrated develeper tools, Terminal, Git.<br>
+Languages & Technologies Used:<br>
+HTML: The standard markup language for creating web pages and structuring content.<br>
 JavaScript: A scripting or programming language that allows you to implement complex features on web pages.
 
 # Useful Websites
