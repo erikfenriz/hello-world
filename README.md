@@ -15,4 +15,4 @@ JavaScript: A scripting or programming language that allows you to implement com
 
 # Useful Websites
 
-* [MDN]([http://url.link.goes.here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Language_overview))
+* [MDN](http://url.link.goes.here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Language_overview)
