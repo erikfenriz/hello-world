@@ -9,9 +9,10 @@ This activity helps beginners learn basic programming tools, debugging technique
 # Development Environment
 
 Tools used: IDE Webstorm, Browder Google Chrome and its integrated develeper tools, Terminal, Git.
-Language used: JavaScript is a scripting or programming language that allows you to implement complex features on web pages.
+Languages & Technologies Used:
+HTML: The standard markup language for creating web pages and structuring content.
+JavaScript: A scripting or programming language that allows you to implement complex features on web pages.
 
 # Useful Websites
 
 * [MDN]([http://url.link.goes.here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Language_overview))
-* [Web Site Name](http://url.link.goes.here)
